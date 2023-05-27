@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="iamneoTestSuite">
+    <test name="iamneoTest">
+        
+        <classes>
+            <class name="ai.iamneo.assignmentone.Testing_Selenium_TestngOne.AppTest" />
+        </classes>
+    </test>
+</suite>
